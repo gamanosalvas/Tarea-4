@@ -383,6 +383,7 @@ Ejercicios Capitulo 8
 
 4. Video:
 
+https://youtu.be/3sO6KyRe6wI
 
 5. Conclusiones:
 
