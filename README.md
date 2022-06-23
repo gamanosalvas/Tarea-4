@@ -333,13 +333,59 @@ Ejercicios Capitulo 8
 
 (b)![image](https://user-images.githubusercontent.com/94025287/175170376-adffcb99-5f23-466f-ac6d-a2db04db6028.png)
 
-(c)
+(c)![image](https://user-images.githubusercontent.com/94025287/175315958-3ab1e561-2c19-43ee-81f8-2b0e6b578a43.png)
 
-22. Video:
+26. Con el teorema de Norton, determine la corriente que circula a través de R1 en la figura 8-80 cuando R8  8 kÆ.
 
+![image](https://user-images.githubusercontent.com/94025287/175316142-74896f12-b194-43ad-b118-a3d0726ac076.png)
+
+![image](https://user-images.githubusercontent.com/94025287/175316184-95745530-b3f6-473f-a7fb-1e012fbdcb9a.png)
+
+28. En la figura 8-83, reduzca el circuito entre las terminales A y B a su equivalente Norton.
+
+![image](https://user-images.githubusercontent.com/94025287/175316261-97314d47-2202-4950-8e7a-152efabcccd8.png)
+
+![image](https://user-images.githubusercontent.com/94025287/175316329-cdc1e593-12a7-4707-a886-e36647466155.png)
+
+![image](https://user-images.githubusercontent.com/94025287/175316381-fab9c2ad-93e7-40a8-af80-6b17de107588.png)
+
+![image](https://user-images.githubusercontent.com/94025287/175316416-480792ff-4161-40c9-9470-74cd35034a77.png)
+
+30. En cada circuito mostrado en la figura 8-85, se tiene que transferir potencia máxima a la carga RL. Determine el valor apropiado de RL en cada caso.
+
+![image](https://user-images.githubusercontent.com/94025287/175316536-1f82a27b-57c3-471a-a35d-cbc9942aad99.png)
+
+![image](https://user-images.githubusercontent.com/94025287/175316578-cde5417b-7416-471b-9851-9d4f80ea5a32.png)
+
+32. ¿Cuánta potencia se suministra a la carga cuando RL es un 10% más alta que su valor para transferencia de potencia máxima en el circuito de la figura 8-86?
+
+![image](https://user-images.githubusercontent.com/94025287/175316699-c9e8cbdf-d8c0-4606-a707-b2f77e33bea7.png)
+
+![image](https://user-images.githubusercontent.com/94025287/175316758-520fce29-800b-4aee-a9b5-cf3fc47d5996.png)
+
+![image](https://user-images.githubusercontent.com/94025287/175316782-f363df06-938c-498c-9a4c-161360b35852.png)
+
+![image](https://user-images.githubusercontent.com/94025287/175316816-8298214c-dd27-492b-923d-d734814a1737.png)
+
+34. En la figura 8-88, convierta cada red delta en una red Y.
+
+![image](https://user-images.githubusercontent.com/94025287/175316873-c1104d14-e469-4f83-95ab-b2c8f01a577d.png)
+
+![image](https://user-images.githubusercontent.com/94025287/175316905-ec9b303f-3289-4576-a8dd-9f63647d5ef7.png)
+
+ 36. Determine todas las corrientes que circulan en el circuito de la figura 8-90.
+
+![image](https://user-images.githubusercontent.com/94025287/175316993-9c963b07-62e6-425a-8fd3-45ca33149700.png)
+
+![image](https://user-images.githubusercontent.com/94025287/175317046-ce8d751c-288f-41bf-a076-27f39ba44848.png)
+
+![image](https://user-images.githubusercontent.com/94025287/175317080-c35c63b0-22d3-487f-8663-13b13a7b1491.png)
+
+4. Video:
 
 
 5. Conclusiones:
+
 • Aprendimos a calcular la resistencia total de un circuito en un circuito serie-paralelo mediante el anasis de estos.
 
 • Vimos que en un circuito en serie-paralelo se aplican las mismas leyes que un circuito en paralelo o en un circuito en serie y poco a poco podemos irlo reduciendo.
